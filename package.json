@@ -10,7 +10,7 @@
     "xhr",
     "server"
   ],
-  "main": "lib/index.js",
+  "main": "nise.js",
   "scripts": {
     "bundle": "browserify -s nise -o nise.js lib/index.js",
     "lint": "eslint .",
